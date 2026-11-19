@@ -24,20 +24,20 @@
 
 ---
 
-## ✨ Sobre mim
+##  Sobre mim
 
 Sou **finalista de CTeSP em Desenvolvimento de Software** e estou à procura de um estágio onde possa aprender com uma equipa e contribuir com projetos reais.
 
 Gosto de transformar ideias em aplicações que funcionam: desde a base de dados e a lógica no back-end até ao ecrã que o utilizador vê. Também gosto de **testar software** e encontrar o que pode falhar antes de chegar ao utilizador.
 
-- 🎓 CTeSP em Desenvolvimento de Software
-- 🛠️ A trabalhar com **Laravel, PHP e MySQL**
-- 🧪 Interesse em **testes e qualidade de software (QA)**
-- 🎨 Protótipos de interface no **Figma**
+- CTeSP em Desenvolvimento de Software
+-  A trabalhar com **Laravel, PHP e MySQL**
+-  Interesse em **testes e qualidade de software (QA)**
+-  Protótipos de interface no **Figma**
 
 ---
 
-## 🧰 Tecnologias e ferramentas
+## Tecnologias e ferramentas
 
 <div align="center">
 
@@ -59,7 +59,7 @@ Gosto de transformar ideias em aplicações que funcionam: desde a base de dados
 
 ---
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 <table>
   <tr>
@@ -96,7 +96,7 @@ Gosto de transformar ideias em aplicações que funcionam: desde a base de dados
       <a href="https://github.com/CruzDias/NOME-DO-REPOSITORIO-QA">Ver repositório →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🏫 Gestor de Reservas de Espaços ISTEC</h3>
+      <h3> Gestor de Reservas de Espaços ISTEC</h3>
       <p>Projeto em grupo para reservar salas e espaços. Fui responsável por: <b>ESCREVE AQUI A TUA PARTE</b>.</p>
       <p>
         <img src="https://img.shields.io/badge/Trabalho%20em%20Grupo-C084FC?style=flat-square" alt="Grupo"/>
@@ -110,7 +110,7 @@ Gosto de transformar ideias em aplicações que funcionam: desde a base de dados
 
 ---
 
-## 🌱 A aprender neste momento
+## A aprender neste momento
 
 <div align="center">
 
